@@ -1,1 +1,5 @@
-Replace this with your name, and include a header.
+# This is a h1 header
+## This is a h2 
+This is normal text
+###### this is a H6 header
+The smallest
